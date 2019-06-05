@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+git_push.sh
+
 # C extensions
 *.so
 
